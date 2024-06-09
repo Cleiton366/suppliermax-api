@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "dev": "nodemon --exec ts-node src/Server.ts",
-    "test": "jest --coverage --verbose"
+    "test": "jest --coverage --verbose",
+    "prod" : "ts-node src/Server.ts"
   },
   "author": "Cleiton Queiroz",
   "devDependencies": {
