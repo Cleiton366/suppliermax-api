@@ -10,6 +10,7 @@ SupplierMax is a robust backend system designed to efficiently manage supplier d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Related Project](#related-project)
 
 ## Features
 
@@ -61,7 +62,7 @@ SupplierMax is a robust backend system designed to efficiently manage supplier d
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SupplierMax.git
+   git clone https://github.com/Cleiton366/suppliermax-api.git
    cd SupplierMax
     ```
 2. Install dependencies:
@@ -109,3 +110,7 @@ To check the coverage in the whole backend, access:
 ```bash
 http://localhost:4000/test-coverage/
 ```
+
+## Related Project
+
+Opcionally, you can run this project with the frontend, see: https://github.com/Cleiton366/suppliermax-frontend
